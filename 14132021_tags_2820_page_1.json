@@ -1,112 +1,51 @@
 [
   {
-    "tag": "day",
-    "total": 96,
-    "size_max_detail_page": 2,
+    "tag": "weather",
+    "total": 367,
+    "size_max_detail_page": 8,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_day_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_day_index_1.json"
-      }
-    ]
-  },
-  {
-    "tag": "month",
-    "total": 24,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_month_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "clean",
-    "total": 14,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_clean_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "dark",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_dark_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "minimal",
-    "total": 35,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_minimal_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "pai",
-    "total": 77,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_pai_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_1.json"
       },
       {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_pai_index_1.json"
-      }
-    ]
-  },
-  {
-    "tag": "sonic",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_sonic_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "blue",
-    "total": 19,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_blue_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "alarm",
-    "total": 68,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_alarm_index_0.json"
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_2.json"
       },
       {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_alarm_index_1.json"
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_weather_index_7.json"
+      }
+    ]
+  },
+  {
+    "tag": "batman",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_batman_index_0.json"
       }
     ]
   },
@@ -126,6 +65,129 @@
     ]
   },
   {
+    "tag": "pulse",
+    "total": 86,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_pulse_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_pulse_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "seconds",
+    "total": 70,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_seconds_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_seconds_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "lock",
+    "total": 63,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_lock_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_lock_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "analog",
+    "total": 107,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_analog_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_analog_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_analog_index_2.json"
+      }
+    ]
+  },
+  {
+    "tag": "cartoon",
+    "total": 50,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_cartoon_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "sport",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_sport_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "animation",
+    "total": 76,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_animation_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_animation_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "watch",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_watch_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "blue",
+    "total": 19,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_blue_index_0.json"
+      }
+    ]
+  },
+  {
     "tag": "notdisturb",
     "total": 14,
     "size_max_detail_page": 1,
@@ -137,121 +199,83 @@
     ]
   },
   {
-    "tag": "basic",
-    "total": 14,
+    "tag": "floors",
+    "total": 41,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_basic_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_floors_index_0.json"
       }
     ]
   },
   {
-    "tag": "english",
-    "total": 45,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_english_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "naruto",
-    "total": 30,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_naruto_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "green",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_green_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "marvel",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_marvel_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "legible",
+    "tag": "kcal",
     "total": 11,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_legible_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_kcal_index_0.json"
       }
     ]
   },
   {
-    "tag": "calories",
-    "total": 253,
-    "size_max_detail_page": 6,
+    "tag": "games",
+    "total": 84,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_games_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_calories_index_5.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_games_index_1.json"
       }
     ]
   },
   {
-    "tag": "status",
-    "total": 43,
+    "tag": "health",
+    "total": 19,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_status_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_health_index_0.json"
       }
     ]
   },
   {
-    "tag": "brasil",
-    "total": 15,
+    "tag": "temperature",
+    "total": 18,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_brasil_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_temperature_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "clear",
+    "total": 11,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_clear_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "watchos",
+    "total": 14,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_tag_0/raw/main/14132021_dtt_watchos_index_0.json"
       }
     ]
   }
